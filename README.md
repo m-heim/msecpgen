@@ -18,7 +18,7 @@ Password is the corresponding password on the website with the given key
 
 ### Parameters
 
-Parameters used for the password generation, changing them will cause wrong outputs. This can either be output length (Lengths of 16-32 are safe)
+Parameters used for the password generation, changing them will cause wrong outputs. This can either be output length (Lengths of 16-32 are safe) or used procedure
 
 ### Concept
 
